@@ -1,2 +1,0 @@
-# blogs
-markdown blog articles
